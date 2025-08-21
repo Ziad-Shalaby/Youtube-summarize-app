@@ -48,7 +48,7 @@ To use the Gemini API, you need to set up your API key.
 
 1.  Create a new file in the root of the project named `.env`.
 2.  Add your API key to this file in the following format:
-    ```
+    ```bash
     GEMINI_API_KEY=YOUR_API_KEY_HERE
     ```
     *Replace `YOUR_API_KEY_HERE` with your actual API key.*
