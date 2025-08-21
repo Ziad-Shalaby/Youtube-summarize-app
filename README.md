@@ -18,7 +18,7 @@ The **YouTube Video Summarizer** is a web application built with Python and Stre
     -   Streamlit: A Python library for building data-driven web applications.
     -   Python: The core programming language.
 -   **API Integration:**
-    -   Gemini API: The core large language model for generating the summaries.
+    -   Bart: The core large language model for generating the summaries.
     -   `youtube-transcript-api`: A Python library to fetch video transcripts.
 
 ## Getting Started
